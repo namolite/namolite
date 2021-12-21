@@ -7,4 +7,8 @@ Greetings! I am a noob living in... errr, I forgot. 😢
 - Horny all the time 🥰
 
 ### Contact 📄
-You can find me on Telegram. 😉
+You can find me on [Telegram][tg]. 😉
+
+
+
+[tg]:https://t.me/unlimited_echo_bot
