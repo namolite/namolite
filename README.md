@@ -2,6 +2,7 @@
 Greetings! I am a noob living in... errr, sorry, I forgot. 😢
 
 ### Interest 🐾
+- Love javascript ❤️
 - Poor memory 😦
 - Enjoy cooking! 🍥
 - No passion on work 😴
