@@ -1,5 +1,5 @@
 ## Namo's info
-Greetings! I am a noob living in... errr, sorry, I forgot. 😢
+Greetings! im a noob living in... errr, sorry, I forgot. 😢
 
 ### Interest 🐾
 - Love javascript ❤️
