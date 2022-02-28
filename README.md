@@ -1,6 +1,6 @@
 ## Namo's info
-Greetings! im a noob living in... errr, sorry, I forgot. 😢
-JVM / Javascript
+Greetings! im a noob living in... errr, sorry, I forgot. 😢    
+JVM and Javascript / Typescript
 
 ### Interest 🐾
 - Love javascript ❤️
