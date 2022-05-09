@@ -1,6 +1,6 @@
 ## Namo's info
 Greetings! im a noob living in... errr, sorry, I forgot. 😢    
-Dev JVM and Javascript / Typescript
+Amateur dev JVM, py and Javascript / Typescript
 
 learning nlp
 
