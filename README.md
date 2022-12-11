@@ -4,7 +4,7 @@ Junior UI / UX dev dev, skilled JVM, py & JS / TS
 
 learning nlp nya.
 
-### Interest 🐾
+### Attributes 🐾
 - ❤️ Love javascript 
 - 🧩 Poor memory 
 - 🍰 Enjoy cooking! 
