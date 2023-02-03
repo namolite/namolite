@@ -1,5 +1,5 @@
 ## Namo's info
-Greetings! im lil adorable nekomimi, have such catears and a tail, living in a carton nya.    
+Greetings! This is lil adorable nekomimi, have such catears and a tail, living in a carton nya.    
 Junior UI / UX dev, skilled kotlin, py & JS / TS
 
 learning nlp nya.
