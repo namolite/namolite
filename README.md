@@ -1,6 +1,6 @@
 ## Namo's info
 Greetings! This is lil adorable nekomimi, have such catears and a tail, living in a carton nya.    
-Junior UI / UX dev, skilled kotlin, py & JS / TS
+Junior UI / UX dev, skilled kotlin, py, TypeScript, nextjs & electron.
 
 learning nlp nya.
 
