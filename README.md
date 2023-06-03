@@ -1,14 +1,13 @@
-## Noel's info
+## info
 Greetings! This is lil adorable nekomimi, have such catears and a tail, living in a carton nya.    
 
 learning nlp nya.
 
 ### Attributes 🐾
-- ❤️ Love javascript 
-- 🧩 Poor memory 
-- 🍰 Enjoy cooking! 
-- 💤 No passion on work 
-- 🥰 Horny all the time 
+- 💖 Cure your heart
+- 🍓 Ultra adorable
+- 🍭 Tiny & delicate
+- 🍰 Enjoy baking
 
 ### Contact 📄
 You can find me on [Telegram][tg] nya.
