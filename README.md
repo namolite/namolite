@@ -9,6 +9,10 @@ learning nlp nya.
 - 🍭 Tiny & delicate
 - 🍰 Enjoy baking
 
+### Unlocked
+JavaScript, TypeScript, React, Next, Vue, Electron, TailwindCSS, Figma
+Python, Node, BASH, SQL, TensorFlow, Java, Hadoop, Hive
+
 ### Contact 📄
 You can find me on [Telegram][tg] nya.
 
