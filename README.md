@@ -11,7 +11,7 @@ learning nlp nya.
 
 ### Unlocked
 Front-end: JavaScript, TypeScript, React, Next, Vue, Electron, TailwindCSS, Figma  
-Back-end: Python, Node, BASH, SQL, TensorFlow, Java, Hadoop, Hive
+Back-end: Python, Rust, Node, BASH, SQL, TensorFlow, Java, Hadoop, Hive
 
 ### Contact 📄
 You can find me on [Telegram][tg] nya.
