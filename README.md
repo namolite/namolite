@@ -10,8 +10,8 @@ learning psychology nya.
 - 🍰 Enjoy baking
 
 ### Unlocked
-Front-end: JavaScript, TypeScript, React, Next, Vue, Electron, TailwindCSS, Figma  
-Back-end: Python, Rust, Node, BASH, SQL, TensorFlow, Java, Hadoop, Hive
+Front-end: JavaScript/TypeScript, React, Electron, SCSS, Tailwind, Figma  
+Back-end: Node, Next, Python, Rust, BASH, SQL, Java, Hadoop, Hive
 
 ### Contact 📄
 You can find me on [Telegram][tg] nya.
