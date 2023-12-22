@@ -13,17 +13,17 @@ me.sayHello();
 const subjectsStudying = ['💻 Software Development', '🔮 Psychology', '🪐 Operations Research', '🍰 Baking'];
 ```
 
-<table>
+<table style="width: 100%;">
 <tr>
-    <td>nya!</td>
+    <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,deno" /></td>
-    <td>nya!</td>
+    <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><img src="https://skillicons.dev/icons?i=electron,sass,tailwind,threejs,figma" /></td>
 </tr>
 <tr>
-    <td>nya!</td>
+    <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,sqlite,postgres,git,blender" /></td>
-    <td>nya!</td>
+    <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow," /></td>
 </tr>
 </table>
