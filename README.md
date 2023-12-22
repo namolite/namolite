@@ -22,7 +22,7 @@ const subjectsStudying = ['💻 Software Development', '🔮 Psychology', '🪐 
 </tr>
 <tr>
     <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,sqlite,postgres,git,blender" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,prisma,bash,git,blender" /></td>
     <td>&nbsp; &nbsp; &nbsp; &nbsp; nya! &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow," /></td>
 </tr>
