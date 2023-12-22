@@ -1,7 +1,7 @@
 ## info
-Greetings! This is lil adorable nekomimi, have such catears and a tail, living in a carton nya.    
+![Header](./banner.png)
 
-learning psychology nya.
+learning psychology, operations research nya.
 
 ### Attributes 🐾
 - 💖 Cure your heart
