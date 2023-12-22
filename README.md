@@ -1,16 +1,32 @@
 ![Header](./banner.png)
 
-learning psychology, operations research nya.
+```TypeScript
+class Catgirl {
+    constructor(public name: string) {}
+    
+    sayHello = () => `Preh! I'm ${this.name}. If you need help, I suppose I could lend a paw, nya~`;
+}
 
-### Attributes 🐾
-- 💖 Cure your heart
-- 🍓 Ultra adorable
-- 🍭 Tiny & delicate
-- 🍰 Enjoy baking
+const me = new Catgirl('Violetta');
+me.sayHello();
 
-### Unlocked
-Front-end: JavaScript/TypeScript, React, Electron, SCSS, Tailwind, Figma  
-Back-end: Node, Next, Python, Rust, BASH, SQL, Java, Hadoop, Hive
+const subjectsStudying = ['💻 Software Development', '🔮 Psychology', '🪐 Operations Research', '🍰 Baking'];
+```
+
+<table>
+<tr>
+    <td>nya!</td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,deno" /></td>
+    <td>nya!</td>
+    <td><img src="https://skillicons.dev/icons?i=electron,sass,tailwind,threejs,figma" /></td>
+</tr>
+<tr>
+    <td>nya!</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,sqlite,postgres,git,blender" /></td>
+    <td>nya!</td>
+    <td><img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow," /></td>
+</tr>
+</table>
 
 ### Contact 📄
 You can find me on [Telegram][tg] nya.
