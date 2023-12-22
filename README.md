@@ -1,4 +1,3 @@
-## info
 ![Header](./banner.png)
 
 learning psychology, operations research nya.
