@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./assets/_banner.png)
 
 ```TypeScript
 class Catgirl {
