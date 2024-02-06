@@ -4,11 +4,11 @@
 class Catgirl {
     constructor(public name: string) {}
     
-    sayHello = () => `Preh! I'm ${this.name}. If you need help, I suppose I could lend a paw, nya~`;
+    greeting = () => `Preh! I'm ${this.name}. If you need help, I suppose I could lend a paw, nya~`;
 }
 
 const me = new Catgirl('Violetta');
-me.sayHello();
+me.greeting();
 
 const subjectsStudying = ['💻 Software Development', '🔮 Psychology', '🪐 Operations Research', '🍰 Baking'];
 ```
